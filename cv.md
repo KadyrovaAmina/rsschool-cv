@@ -1,7 +1,7 @@
 # Amina Kadyrova
 ## Contact information:
 - **Location:** Omsk, Russia 
-- **Telegram:** @KadyrovaAminas
+- **Telegram:** @KadyrovaAmina
 - **Email:**  kadyrova_amina_alievna@mail.ru
 - **GitHub:** KadyrovaAmina
 -**Discord:** 
